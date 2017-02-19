@@ -118,6 +118,8 @@
     NSString *recStr = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
     
     NSLog(@"%@",recStr);
+    
+    NSLog(@"测试github是否成功");
 }
 
 
